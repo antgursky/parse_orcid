@@ -12,7 +12,7 @@
 - `parsed_works.csv` – результат в формате CSV (для Excel).
 
 #### Запуск
-1. Установите зависимости: `pip install requests pandas tqdm`
-2. Запустите: `python parse_orcid.py`
+1. Установить зависимости: `pip install requests pandas tqdm`
+2. Запустить скрипт: `parse_orcid.ipynb`
 
 Скрипт загружает актуальные данные напрямую с ORCID.
